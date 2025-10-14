@@ -145,3 +145,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IraSafonik&show_icons=true&theme=tokyonight)](https://git.io/streak-stats)
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=𝕋𝕙𝕒𝕟𝕜+𝕪𝕠𝕦+𝕗𝕠𝕣+𝕣𝕖𝕒𝕕𝕚𝕟𝕘!💙)](https://git.io/typing-svg)
+
