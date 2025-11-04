@@ -135,15 +135,16 @@
 | 𝕁𝕦𝕟 𝟚𝟜    |<a href='#000C1F' target="_blank"><img alt='DataArt' src='https://img.shields.io/badge/Dataart-100000?style=for-the-badge&logo=DataArt&logoColor=000000&labelColor=000000&color=000000'/></a> | [𝔼𝕞𝕠𝕥𝕚𝕠𝕟𝕒𝕝 𝕀𝕟𝕥𝕖𝕝𝕝𝕚𝕘𝕖𝕟𝕔𝕖 𝕗𝕠𝕣 𝕃𝕖𝕒𝕕𝕖𝕣𝕤](https://drive.google.com/file/d/1YoK1raMYd2b2CJNlXyxLsiqshjOIUCZ6/view?usp=sharing) | 
 
 ## GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IraSafonik&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IraSafonik&theme=tokyonight&cache_seconds=86400)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IraSafonik&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IraSafonik&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IraSafonik&theme=tokyonight&cache_seconds=86400)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IraSafonik&theme=tokyonight&cache_seconds=86400)
 
 ## GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=IraSafonik&show_icons=true&theme=tokyonight)](https://github.com/IraSafonik/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=IraSafonik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-## GitHub streak stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IraSafonik&show_icons=true&theme=tokyonight)](https://git.io/streak-stats)
+## GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=IraSafonik&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://streak-stats.demolab.com)
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=𝕋𝕙𝕒𝕟𝕜+𝕪𝕠𝕦+𝕗𝕠𝕣+𝕣𝕖𝕒𝕕𝕚𝕟𝕘!💙)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=36BCF7&center=true&vCenter=true&lines=Thank+you+for+reading!💙)](https://github.com/DenverCoder1/readme-typing-svg)
 
