@@ -1,0 +1,30 @@
+name: Mirror README images
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # запуск о 06:17 UTC (щодня)
+  workflow_dispatch:        # дозволяє вручну запускати з вкладки Actions
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Make assets dir
+        run: mkdir -p assets
+
+      - name: Download SVGs
+        run: |
+          curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IraSafonik&theme=tokyonight" -o assets/profile-details.svg || true
+          curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IraSafonik&theme=tokyonight" -o assets/stats.svg || true
+          curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IraSafonik&theme=tokyonight" -o assets/productive-time.svg || true
+          curl -fsSL "https://github-profile-trophy.vercel.app/?username=IraSafonik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" -o assets/trophy.svg || true
+          curl -fsSL "https://streak-stats.demolab.com?user=IraSafonik&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" -o assets/streak.svg || true
+          curl -fsSL "https://readme-typing-svg.demolab.com?color=36BCF7&center=true&vCenter=true&lines=Thank+you+for+reading!💙" -o assets/typing.svg || true
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "assets/*.svg"
+          message: "chore: refresh README images [skip ci]"
