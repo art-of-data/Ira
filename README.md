@@ -134,16 +134,16 @@
 | 𝕁𝕦𝕝 𝟚𝟜    | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) | [𝔹𝕦𝕤𝕚𝕟𝕖𝕤𝕤 𝔼𝕟𝕘𝕝𝕚𝕤𝕙 𝕓𝕪 𝕌𝕟𝕚𝕧𝕖𝕣𝕤𝕚𝕥𝕪 𝕠𝕗 𝕎𝕒𝕤𝕙𝕚𝕟𝕘𝕥𝕠𝕟](https://coursera.org/share/33146723554fdcd38e73102dcaaf38de) |
 | 𝕁𝕦𝕟 𝟚𝟜    |<a href='#000C1F' target="_blank"><img alt='DataArt' src='https://img.shields.io/badge/Dataart-100000?style=for-the-badge&logo=DataArt&logoColor=000000&labelColor=000000&color=000000'/></a> | [𝔼𝕞𝕠𝕥𝕚𝕠𝕟𝕒𝕝 𝕀𝕟𝕥𝕖𝕝𝕝𝕚𝕘𝕖𝕟𝕔𝕖 𝕗𝕠𝕣 𝕃𝕖𝕒𝕕𝕖𝕣𝕤](https://drive.google.com/file/d/1YoK1raMYd2b2CJNlXyxLsiqshjOIUCZ6/view?usp=sharing) | 
 
-## GitHub Stats
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IraSafonik&theme=tokyonight)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IraSafonik&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IraSafonik&theme=tokyonight)
+## GitHub Stats 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IraSafonik&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IraSafonik&theme=tokyonight) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IraSafonik&theme=tokyonight) 
 
-## GitHub Trophy
-![Trophy](https://github-profile-trophy.vercel.app/?username=IraSafonik&theme=tokyonight)
+## GitHub Trophy 
+![trophy](https://github-profile-trophy.vercel.app/?username=IraSafonik&show_icons=true&theme=tokyonight)](https://github.com/IraSafonik/github-profile-trophy) 
 
-## GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=IraSafonik&theme=tokyonight)
+## GitHub streak stats 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IraSafonik&show_icons=true&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?color=36BCF7&center=true&vCenter=true&lines=Thank+you+for+reading!💙)](https://github.com/DenverCoder1/readme-typing-svg)
 
